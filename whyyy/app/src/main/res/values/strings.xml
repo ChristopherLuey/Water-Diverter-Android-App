@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Legend 27</string>
+    <string name="button_connect">Connect</string>
+    <string name="button_disconnect">Disconnect</string>
+    <string name="title_devices">Devices</string>
+    <string name="action_settings">Settings</string>
+    <string name="scan">Scan</string>
+    <string name="Preferences">Preferences</string>
+    <string name="main_screen">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_screen">MainzScreen</string>
+    <string name="mainScreen">Go to Main Screen</string>
+    <string name="settemp">Set Temperature</string>
+    <string name="onoff">Turn Bluetooth On/Off</string>
+</resources>
